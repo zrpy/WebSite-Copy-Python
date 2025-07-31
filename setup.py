@@ -4,9 +4,9 @@ VERSION = '0.1.0'
 DESCRIPTION = 'Websiteを簡単にコピーしてくれるパッケージです'
 
 setup(
-    name="dispyplus",
+    name="WebSite-Copy-Python",
     version=VERSION,
-    author="meow",
+    author="Zrpy(original: meow)",
     description=DESCRIPTION,
     long_description=DESCRIPTION
     long_description_content_type="text/markdown",
