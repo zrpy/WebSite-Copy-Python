@@ -8,7 +8,7 @@ setup(
     version=VERSION,
     author="Zrpy(original: meow)",
     description=DESCRIPTION,
-    long_description=DESCRIPTION
+    long_description=DESCRIPTION,
     long_description_content_type="text/markdown",
     install_requires=[
         "beautifulsoup4>=4.13.4",
